@@ -1,0 +1,24 @@
+﻿  PracticaUnidad4.4.cpp
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(26,37): warning C4244: '=': conversión de 'T' a 'T'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(26,37): warning C4244:         with
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(26,37): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(26,37): warning C4244:             T=unsigned int
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(26,37): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(26,37): warning C4244:         and
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(26,37): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(26,37): warning C4244:             T=float
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(26,37): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(27,37): warning C4244: '=': conversión de 'T' a 'T'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(27,37): warning C4244:         with
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(27,37): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(27,37): warning C4244:             T=unsigned int
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(27,37): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(27,37): warning C4244:         and
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(27,37): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(27,37): warning C4244:             T=float
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(27,37): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(56,20): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(59,20): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(62,22): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\PracticaUnidad4.4.cpp(65,22): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  PracticaUnidad4.4.vcxproj -> C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.4\Debug\PracticaUnidad4.4.exe
