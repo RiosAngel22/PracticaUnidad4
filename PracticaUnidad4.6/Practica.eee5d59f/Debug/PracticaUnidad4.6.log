@@ -1,0 +1,52 @@
+﻿  PracticaUnidad4.6.cpp
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Alienigena.h(14,23): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "PracticaUnidad4.6.cpp")
+  
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Alienigena.h(14,18): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "PracticaUnidad4.6.cpp")
+  
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Alienigena.h(23,24): warning C4244: 'inicializando': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Alienigena.h(23,24): warning C4244:         with
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Alienigena.h(23,24): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Alienigena.h(23,24): warning C4244:             T=float
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Alienigena.h(23,24): warning C4244:         ]
+  (compilando archivo de origen "PracticaUnidad4.6.cpp")
+  
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Alienigena.h(24,24): warning C4244: 'inicializando': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Alienigena.h(24,24): warning C4244:         with
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Alienigena.h(24,24): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Alienigena.h(24,24): warning C4244:             T=float
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Alienigena.h(24,24): warning C4244:         ]
+  (compilando archivo de origen "PracticaUnidad4.6.cpp")
+  
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Alienigena.h(29,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "PracticaUnidad4.6.cpp")
+  
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Alienigena.h(29,21): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "PracticaUnidad4.6.cpp")
+  
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Crosshair.h(14,86): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Crosshair.h(14,86): warning C4244:         with
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Crosshair.h(14,86): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Crosshair.h(14,86): warning C4244:             T=unsigned int
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Crosshair.h(14,86): warning C4244:         ]
+  (compilando archivo de origen "PracticaUnidad4.6.cpp")
+  
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Crosshair.h(14,52): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Crosshair.h(14,52): warning C4244:         with
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Crosshair.h(14,52): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Crosshair.h(14,52): warning C4244:             T=unsigned int
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Crosshair.h(14,52): warning C4244:         ]
+  (compilando archivo de origen "PracticaUnidad4.6.cpp")
+  
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\PracticaUnidad4.6.cpp(52,78): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\PracticaUnidad4.6.cpp(52,78): warning C4244:         with
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\PracticaUnidad4.6.cpp(52,78): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\PracticaUnidad4.6.cpp(52,78): warning C4244:             T=int
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\PracticaUnidad4.6.cpp(52,78): warning C4244:         ]
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\PracticaUnidad4.6.cpp(52,51): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\PracticaUnidad4.6.cpp(52,51): warning C4244:         with
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\PracticaUnidad4.6.cpp(52,51): warning C4244:         [
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\PracticaUnidad4.6.cpp(52,51): warning C4244:             T=int
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\PracticaUnidad4.6.cpp(52,51): warning C4244:         ]
+  PracticaUnidad4.6.vcxproj -> C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad4\PracticaUnidad4.6\Debug\PracticaUnidad4.6.exe
