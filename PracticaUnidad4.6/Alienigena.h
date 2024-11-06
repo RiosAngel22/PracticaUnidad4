@@ -23,7 +23,7 @@ public:
 		unsigned int limiteX = 800 - AlienTexture.getSize().x * escala.x;
 		unsigned int limiteY = 600 - AlienTexture.getSize().y * escala.y;
 
-		//creamos 2 valores aleatorios dentro de los limites para obtener una posicion aleatoria cada vez que llamamos la f
+		//creamos 2 valores aleatorios dentro de los limites para obtener una posicion aleatoria cada vez que llamamos la funcion
 		unsigned int posX = rand() % limiteX + 1;
 		unsigned int posY = rand() % limiteY + 1;
 		Alien.setPosition(posX, posY);
