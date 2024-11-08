@@ -12,7 +12,11 @@ public:
 		AlienTexture.loadFromFile("et.png");
 		Alien.setTexture(AlienTexture);
 		Alien.setScale(0.1, 0.1);
+
+		//le damos al randomizador una semilla aleatoria
+		srand(time(NULL));
 		ObtenerPosicionAleatoria();
+		
 	}
 
 	void ObtenerPosicionAleatoria() {
